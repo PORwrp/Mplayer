@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mplayer</string>
+    <string name="play"> || </string>
+    <string name="next"> &gt; </string>
+    <string name="prev"> &lt; </string>
+    <string name="fast"> &gt;&gt; </string>
+    <string name="slow"> &lt;&lt; </string>
+</resources>
